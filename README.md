@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohamed Abd Elhamed 
+- 👋 Hi, I’m Mohamed Abd Elhamed Mahmoud
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Django
 
