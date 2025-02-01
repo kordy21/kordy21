@@ -4,11 +4,13 @@
 <!--![Profile views](https://komarev.com/ghpvc/?username=kordy21&label=Profile%20views&color=0e75b6&style=flat) -->
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/YourProfile](https://www.linkedin.com/in/mohamed-abdelhamed-9a756320a/)) 
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/YourProfile](https://www.linkedin.com/in/mohamed-abdelhamed-9a756320a/)) -->
+<a href="https://www.linkedin.com/in/mohamed-abdelhamed-9a756320a/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="C++" width="40" height="40"/>
+<a/>
 
 ## 🛠️ Languages and Tools:
 <p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/> 
